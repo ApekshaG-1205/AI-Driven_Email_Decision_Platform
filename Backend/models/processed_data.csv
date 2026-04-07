@@ -1,0 +1,301 @@
+text,intent,sentiment,urgency,risk
+Thank you for the fast response,praise,positive,low,low
+Many thanks for your help,praise,positive,low,low
+I request you to resolve this concern without delay,complaint,neutral,urgent,low
+I need assistance with my user account,request,neutral,low,low
+We will have to pursue legal measures should this remain unresolved,threat,neutral,low,high
+We might take legal steps if the issue persists,threat,neutral,low,high
+The process has been taking longer than expected,complaint,neutral,normal,low
+Kindly review this issue as soon as possible,complaint,neutral,urgent,low
+I need assistance with my account,request,neutral,low,low
+Could you give additional information?,inquiry,neutral,low,low
+This situation is unacceptable and needs fixing,complaint,negative,low,medium
+I'm looking for guidance for my account issue,request,neutral,low,low
+We may take legal measures should this remain unresolved,threat,neutral,low,high
+I'm looking for assistance with my account,request,neutral,low,low
+Please share further clarification?,inquiry,neutral,low,low
+We might consider legal measures should this remain unresolved,threat,neutral,low,high
+I feel not satisfied with the service provided,complaint,negative,low,low
+We may consider legal steps if the issue persists,threat,neutral,low,high
+Kindly address this problem right away,complaint,neutral,urgent,low
+Can you give more details?,inquiry,neutral,low,low
+Please provide guidance related to my account,request,neutral,low,low
+Kindly handle this issue as soon as possible,complaint,neutral,urgent,low
+The current situation is unacceptable and needs fixing,complaint,negative,low,medium
+The current situation is not acceptable and must be addressed,complaint,negative,low,medium
+Kindly address this matter urgently,complaint,neutral,urgent,low
+I'm looking for help for my account issue,request,neutral,low,low
+I am not satisfied with the level of service,complaint,negative,low,low
+I am very dissatisfied with the service provided,complaint,negative,low,low
+I request you to address this problem right away,complaint,neutral,urgent,low
+This situation is not acceptable and must be addressed,complaint,negative,low,medium
+I need guidance for my account issue,request,neutral,low,low
+Can you share further clarification?,inquiry,neutral,low,low
+I require support related to my account,request,neutral,low,low
+I require help with my user account,request,neutral,low,low
+We may pursue legal measures should this remain unresolved,threat,neutral,low,high
+Please look into this problem with priority,complaint,neutral,urgent,low
+I need assistance for my account issue,request,neutral,low,low
+Could you offer support with my account,request,neutral,low,low
+I'm looking for assistance regarding my account,request,neutral,low,low
+Please provide support related to my account,request,neutral,low,low
+Could you offer support related to my account,request,neutral,low,low
+Please provide guidance regarding my account,request,neutral,low,low
+I feel dissatisfied with the service provided,complaint,negative,low,low
+Please provide help with my account,request,neutral,low,low
+Please provide guidance for my account issue,request,neutral,low,low
+Please provide help related to my account,request,neutral,low,low
+We will have to take legal action if this continues,threat,neutral,low,high
+We will have to consider legal steps if the issue persists,threat,neutral,low,high
+Kindly review this problem with priority,complaint,neutral,urgent,low
+We will have to pursue legal action if this continues,threat,neutral,low,high
+Please share more details?,inquiry,neutral,low,low
+Kindly fix this issue immediately,complaint,neutral,urgent,low
+This situation is unacceptable and requires action,complaint,negative,low,medium
+Please provide guidance with my account,request,neutral,low,low
+I am very not satisfied with your service,complaint,negative,low,low
+I am dissatisfied with the level of service,complaint,negative,low,low
+Could you offer guidance for my account issue,request,neutral,low,low
+Could you offer support for my account issue,request,neutral,low,low
+The process is taking too long to resolve,complaint,neutral,normal,low
+I require assistance with my account,request,neutral,low,low
+We will have to pursue legal steps if the issue persists,threat,neutral,low,high
+I'm looking for guidance with my user account,request,neutral,low,low
+I need assistance regarding my account,request,neutral,low,low
+Please give further clarification?,inquiry,neutral,low,low
+Could you share further clarification?,inquiry,neutral,low,low
+I require support with my account,request,neutral,low,low
+I require help for my account issue,request,neutral,low,low
+Thank you for assistance,praise,positive,low,low
+I'm looking for guidance regarding my account,request,neutral,low,low
+This is taking too long to resolve,complaint,neutral,normal,low
+Kindly review this matter urgently,complaint,neutral,urgent,low
+Please review this concern immediately,complaint,neutral,urgent,low
+We will have to consider legal measures should this remain unresolved,threat,neutral,low,high
+The process is taking longer than expected,complaint,neutral,normal,low
+Please handle this issue as soon as possible,complaint,neutral,urgent,low
+I feel unhappy with your service,complaint,negative,low,low
+Could you offer help for my account issue,request,neutral,low,low
+Could you offer help with my user account,request,neutral,low,low
+Please provide assistance regarding my account,request,neutral,low,low
+I feel not satisfied with your service,complaint,negative,low,low
+Can you share additional information?,inquiry,neutral,low,low
+I request you to fix this problem right away,complaint,neutral,urgent,low
+I need guidance with my user account,request,neutral,low,low
+Please review this matter urgently,complaint,neutral,urgent,low
+Please provide guidance with my user account,request,neutral,low,low
+Kindly handle this concern immediately,complaint,neutral,urgent,low
+Please look into this concern immediately,complaint,neutral,urgent,low
+Please provide support for my account issue,request,neutral,low,low
+I need guidance with my account,request,neutral,low,low
+I need support with my account,request,neutral,low,low
+The process is taking excessive time to complete,complaint,neutral,normal,low
+Kindly look into this issue as soon as possible,complaint,neutral,urgent,low
+Please provide assistance related to my account,request,neutral,low,low
+We might pursue legal measures should this remain unresolved,threat,neutral,low,high
+I require guidance for my account issue,request,neutral,low,low
+I need guidance regarding my account,request,neutral,low,low
+Please provide further clarification?,inquiry,neutral,low,low
+Kindly address this issue immediately,complaint,neutral,urgent,low
+I am unhappy with the service provided,complaint,negative,low,low
+Please provide assistance for my account issue,request,neutral,low,low
+We will have to consider legal action if this continues,threat,neutral,low,high
+Please provide assistance with my user account,request,neutral,low,low
+I require support regarding my account,request,neutral,low,low
+Please give more details?,inquiry,neutral,low,low
+Many thanks for your assistance,praise,positive,low,low
+We might take legal action if this continues,threat,neutral,low,high
+Please address this concern without delay,complaint,neutral,urgent,low
+I need guidance related to my account,request,neutral,low,low
+Please share additional information?,inquiry,neutral,low,low
+Could you offer guidance regarding my account,request,neutral,low,low
+Please resolve this issue immediately,complaint,neutral,urgent,low
+Many thanks for assistance,praise,positive,low,low
+Could you offer assistance regarding my account,request,neutral,low,low
+This issue seems unacceptable and requires action,complaint,negative,low,medium
+This issue is unacceptable and requires action,complaint,negative,low,medium
+Please look into this matter urgently,complaint,neutral,urgent,low
+Kindly fix this concern without delay,complaint,neutral,urgent,low
+I am very unhappy with the service provided,complaint,negative,low,low
+The process has been taking excessive time to complete,complaint,neutral,normal,low
+I appreciate your fast response,praise,positive,low,low
+I'm looking for guidance with my account,request,neutral,low,low
+Could you share additional information?,inquiry,neutral,low,low
+Please give additional information?,inquiry,neutral,low,low
+Can you give further clarification?,inquiry,neutral,low,low
+Please address this problem right away,complaint,neutral,urgent,low
+The current situation seems not acceptable and must be addressed,complaint,negative,low,medium
+I require guidance related to my account,request,neutral,low,low
+Please review this issue as soon as possible,complaint,neutral,urgent,low
+The process has been taking too long to resolve,complaint,neutral,normal,low
+I feel unhappy with the service provided,complaint,negative,low,low
+Please fix this concern without delay,complaint,neutral,urgent,low
+Kindly handle this matter urgently,complaint,neutral,urgent,low
+Could you provide more details?,inquiry,neutral,low,low
+Please look into this issue as soon as possible,complaint,neutral,urgent,low
+I am dissatisfied with the service provided,complaint,negative,low,low
+I appreciate you for your assistance,praise,positive,low,low
+I request you to fix this concern without delay,complaint,neutral,urgent,low
+Could you give further clarification?,inquiry,neutral,low,low
+Please provide additional information?,inquiry,neutral,low,low
+I need help for my account issue,request,neutral,low,low
+Kindly handle this problem with priority,complaint,neutral,urgent,low
+Kindly resolve this concern without delay,complaint,neutral,urgent,low
+Please provide more details?,inquiry,neutral,low,low
+Please address this matter urgently,complaint,neutral,urgent,low
+We may consider legal action if this continues,threat,neutral,low,high
+Thank you for your help,praise,positive,low,low
+Please review this problem with priority,complaint,neutral,urgent,low
+Please provide support with my user account,request,neutral,low,low
+I require assistance with my user account,request,neutral,low,low
+Could you offer help related to my account,request,neutral,low,low
+I appreciate you for help,praise,positive,low,low
+Kindly address this problem with priority,complaint,neutral,urgent,low
+We might pursue legal steps if the issue persists,threat,neutral,low,high
+I request you to address this concern without delay,complaint,neutral,urgent,low
+I am not satisfied with the service provided,complaint,negative,low,low
+This issue seems unacceptable and needs fixing,complaint,negative,low,medium
+We might pursue legal action if this continues,threat,neutral,low,high
+Please provide assistance with my account,request,neutral,low,low
+Thank you for your quick response,praise,positive,low,low
+Could you offer assistance with my account,request,neutral,low,low
+We may pursue legal action if this continues,threat,neutral,low,high
+Can you provide more details?,inquiry,neutral,low,low
+I need support for my account issue,request,neutral,low,low
+I require guidance with my account,request,neutral,low,low
+I require assistance related to my account,request,neutral,low,low
+Kindly resolve this problem right away,complaint,neutral,urgent,low
+I feel unhappy with the level of service,complaint,negative,low,low
+The current situation seems unacceptable and requires action,complaint,negative,low,medium
+Could you provide further clarification?,inquiry,neutral,low,low
+I'm looking for support regarding my account,request,neutral,low,low
+Could you offer guidance with my account,request,neutral,low,low
+I appreciate the prompt reply,praise,positive,low,low
+This issue seems not acceptable and must be addressed,complaint,negative,low,medium
+I'm looking for help regarding my account,request,neutral,low,low
+Could you offer assistance with my user account,request,neutral,low,low
+This issue is not acceptable and must be addressed,complaint,negative,low,medium
+Please fix this problem right away,complaint,neutral,urgent,low
+I require assistance regarding my account,request,neutral,low,low
+I am very unhappy with the level of service,complaint,negative,low,low
+Kindly resolve this issue immediately,complaint,neutral,urgent,low
+Thank you for your fast response,praise,positive,low,low
+I need help with my account,request,neutral,low,low
+I appreciate you for assistance,praise,positive,low,low
+I appreciate you for your help,praise,positive,low,low
+Kindly look into this matter urgently,complaint,neutral,urgent,low
+Thank you for your assistance,praise,positive,low,low
+Thank you for support,praise,positive,low,low
+Could you share more details?,inquiry,neutral,low,low
+Could you offer guidance related to my account,request,neutral,low,low
+I require guidance regarding my account,request,neutral,low,low
+Please provide help regarding my account,request,neutral,low,low
+I request you to resolve this issue immediately,complaint,neutral,urgent,low
+We will have to take legal measures should this remain unresolved,threat,neutral,low,high
+Thank you for the prompt reply,praise,positive,low,low
+This situation seems unacceptable and requires action,complaint,negative,low,medium
+I need support regarding my account,request,neutral,low,low
+I am very dissatisfied with the level of service,complaint,negative,low,low
+I appreciate you for support,praise,positive,low,low
+I require assistance for my account issue,request,neutral,low,low
+We might consider legal action if this continues,threat,neutral,low,high
+I need help with my user account,request,neutral,low,low
+Please address this concern immediately,complaint,neutral,urgent,low
+I require support for my account issue,request,neutral,low,low
+I appreciate your quick response,praise,positive,low,low
+Can you share more details?,inquiry,neutral,low,low
+I appreciate the fast response,praise,positive,low,low
+I feel dissatisfied with your service,complaint,negative,low,low
+Please address this issue immediately,complaint,neutral,urgent,low
+Please provide help for my account issue,request,neutral,low,low
+Please fix this issue immediately,complaint,neutral,urgent,low
+Please handle this matter urgently,complaint,neutral,urgent,low
+I feel not satisfied with the level of service,complaint,negative,low,low
+I need assistance related to my account,request,neutral,low,low
+Please provide support with my account,request,neutral,low,low
+Many thanks for your support,praise,positive,low,low
+Please provide help with my user account,request,neutral,low,low
+I'm looking for help with my user account,request,neutral,low,low
+I am not satisfied with your service,complaint,negative,low,low
+I request you to address this issue immediately,complaint,neutral,urgent,low
+I'm looking for help with my account,request,neutral,low,low
+Please address this problem with priority,complaint,neutral,urgent,low
+I am unhappy with the level of service,complaint,negative,low,low
+We may take legal action if this continues,threat,neutral,low,high
+I request you to fix this issue immediately,complaint,neutral,urgent,low
+I require help related to my account,request,neutral,low,low
+Many thanks for support,praise,positive,low,low
+Kindly review this concern immediately,complaint,neutral,urgent,low
+Could you offer help regarding my account,request,neutral,low,low
+I appreciate the quick response,praise,positive,low,low
+We may consider legal measures should this remain unresolved,threat,neutral,low,high
+I require guidance with my user account,request,neutral,low,low
+This situation seems unacceptable and needs fixing,complaint,negative,low,medium
+I am very unhappy with your service,complaint,negative,low,low
+Thank you for your support,praise,positive,low,low
+Thank you for your prompt reply,praise,positive,low,low
+I need support with my user account,request,neutral,low,low
+I'm looking for assistance for my account issue,request,neutral,low,low
+Could you offer support with my user account,request,neutral,low,low
+Many thanks for help,praise,positive,low,low
+We might take legal measures should this remain unresolved,threat,neutral,low,high
+I am unhappy with your service,complaint,negative,low,low
+Thank you for the quick response,praise,positive,low,low
+Can you provide further clarification?,inquiry,neutral,low,low
+I'm looking for help related to my account,request,neutral,low,low
+We may take legal steps if the issue persists,threat,neutral,low,high
+Kindly fix this problem right away,complaint,neutral,urgent,low
+This has been taking longer than expected,complaint,neutral,normal,low
+We might consider legal steps if the issue persists,threat,neutral,low,high
+The current situation is unacceptable and requires action,complaint,negative,low,medium
+I need help related to my account,request,neutral,low,low
+Kindly address this issue as soon as possible,complaint,neutral,urgent,low
+I'm looking for support related to my account,request,neutral,low,low
+Please resolve this problem right away,complaint,neutral,urgent,low
+I need help regarding my account,request,neutral,low,low
+Please handle this problem with priority,complaint,neutral,urgent,low
+Kindly look into this problem with priority,complaint,neutral,urgent,low
+I'm looking for assistance with my user account,request,neutral,low,low
+Could you offer help with my account,request,neutral,low,low
+I appreciate your prompt reply,praise,positive,low,low
+I require support with my user account,request,neutral,low,low
+Could you offer support regarding my account,request,neutral,low,low
+I'm looking for support for my account issue,request,neutral,low,low
+This situation seems not acceptable and must be addressed,complaint,negative,low,medium
+I need support related to my account,request,neutral,low,low
+Could you offer assistance related to my account,request,neutral,low,low
+Can you give additional information?,inquiry,neutral,low,low
+I am very dissatisfied with your service,complaint,negative,low,low
+Please resolve this concern without delay,complaint,neutral,urgent,low
+I feel dissatisfied with the level of service,complaint,negative,low,low
+This issue is unacceptable and needs fixing,complaint,negative,low,medium
+I'm looking for support with my user account,request,neutral,low,low
+I'm looking for support with my account,request,neutral,low,low
+Could you give more details?,inquiry,neutral,low,low
+This has been taking too long to resolve,complaint,neutral,normal,low
+I am very not satisfied with the service provided,complaint,negative,low,low
+This is taking longer than expected,complaint,neutral,normal,low
+Could you provide additional information?,inquiry,neutral,low,low
+I'm looking for guidance related to my account,request,neutral,low,low
+I'm looking for assistance related to my account,request,neutral,low,low
+We will have to take legal steps if the issue persists,threat,neutral,low,high
+The current situation seems unacceptable and needs fixing,complaint,negative,low,medium
+I require help regarding my account,request,neutral,low,low
+Can you provide additional information?,inquiry,neutral,low,low
+I am dissatisfied with your service,complaint,negative,low,low
+This has been taking excessive time to complete,complaint,neutral,normal,low
+Thank you for help,praise,positive,low,low
+Kindly address this concern without delay,complaint,neutral,urgent,low
+Please handle this concern immediately,complaint,neutral,urgent,low
+I request you to resolve this problem right away,complaint,neutral,urgent,low
+Could you offer guidance with my user account,request,neutral,low,low
+Could you offer assistance for my account issue,request,neutral,low,low
+We may pursue legal steps if the issue persists,threat,neutral,low,high
+Please address this issue as soon as possible,complaint,neutral,urgent,low
+I am very not satisfied with the level of service,complaint,negative,low,low
+I require help with my account,request,neutral,low,low
+This is taking excessive time to complete,complaint,neutral,normal,low
+Please provide support regarding my account,request,neutral,low,low
+Kindly address this concern immediately,complaint,neutral,urgent,low
+I appreciate you for your support,praise,positive,low,low
+Kindly look into this concern immediately,complaint,neutral,urgent,low
