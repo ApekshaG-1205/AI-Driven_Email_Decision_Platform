@@ -5,17 +5,20 @@ class EmailRequest(BaseModel):
     email_text: str = Field(
         ...,
         min_length=1,
-        max_length=10_000,
-        description="Raw email content to analyze",
-        examples=["Please send the report by end of day. This is urgent!"],
+        max_length=50_000,   # ~10 pages of email; chunker handles long input
+        description="Raw email content to analyze (multi-line supported)",
+        examples=[
+            "Dear John,\n\nPlease send the quarterly report by end of day. "
+            "This is urgent as the board meeting is tomorrow.\n\nBest regards,\nSarah"
+        ],
     )
-
 
 class EmailAnalysisResult(BaseModel):
     intent: str
     sentiment: str
     urgency: str
     risk: str
+    department: str    
     final_decision: str
 
 

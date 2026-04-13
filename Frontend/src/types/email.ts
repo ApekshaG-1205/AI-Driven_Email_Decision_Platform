@@ -3,6 +3,7 @@ export type EmailAnalysis = {
   sentiment: string;
   urgency: string;
   risk: string;
+  department: string;
   final_decision: string;
 };
 

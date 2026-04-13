@@ -1,301 +1,286 @@
-text,intent,sentiment,urgency,risk
-Thank you for the fast response,praise,positive,low,low
-Many thanks for your help,praise,positive,low,low
-I request you to resolve this concern without delay,complaint,neutral,urgent,low
-I need assistance with my user account,request,neutral,low,low
-We will have to pursue legal measures should this remain unresolved,threat,neutral,low,high
-We might take legal steps if the issue persists,threat,neutral,low,high
-The process has been taking longer than expected,complaint,neutral,normal,low
-Kindly review this issue as soon as possible,complaint,neutral,urgent,low
-I need assistance with my account,request,neutral,low,low
-Could you give additional information?,inquiry,neutral,low,low
-This situation is unacceptable and needs fixing,complaint,negative,low,medium
-I'm looking for guidance for my account issue,request,neutral,low,low
-We may take legal measures should this remain unresolved,threat,neutral,low,high
-I'm looking for assistance with my account,request,neutral,low,low
-Please share further clarification?,inquiry,neutral,low,low
-We might consider legal measures should this remain unresolved,threat,neutral,low,high
-I feel not satisfied with the service provided,complaint,negative,low,low
-We may consider legal steps if the issue persists,threat,neutral,low,high
-Kindly address this problem right away,complaint,neutral,urgent,low
-Can you give more details?,inquiry,neutral,low,low
-Please provide guidance related to my account,request,neutral,low,low
-Kindly handle this issue as soon as possible,complaint,neutral,urgent,low
-The current situation is unacceptable and needs fixing,complaint,negative,low,medium
-The current situation is not acceptable and must be addressed,complaint,negative,low,medium
-Kindly address this matter urgently,complaint,neutral,urgent,low
-I'm looking for help for my account issue,request,neutral,low,low
-I am not satisfied with the level of service,complaint,negative,low,low
-I am very dissatisfied with the service provided,complaint,negative,low,low
-I request you to address this problem right away,complaint,neutral,urgent,low
-This situation is not acceptable and must be addressed,complaint,negative,low,medium
-I need guidance for my account issue,request,neutral,low,low
-Can you share further clarification?,inquiry,neutral,low,low
-I require support related to my account,request,neutral,low,low
-I require help with my user account,request,neutral,low,low
-We may pursue legal measures should this remain unresolved,threat,neutral,low,high
-Please look into this problem with priority,complaint,neutral,urgent,low
-I need assistance for my account issue,request,neutral,low,low
-Could you offer support with my account,request,neutral,low,low
-I'm looking for assistance regarding my account,request,neutral,low,low
-Please provide support related to my account,request,neutral,low,low
-Could you offer support related to my account,request,neutral,low,low
-Please provide guidance regarding my account,request,neutral,low,low
-I feel dissatisfied with the service provided,complaint,negative,low,low
-Please provide help with my account,request,neutral,low,low
-Please provide guidance for my account issue,request,neutral,low,low
-Please provide help related to my account,request,neutral,low,low
-We will have to take legal action if this continues,threat,neutral,low,high
-We will have to consider legal steps if the issue persists,threat,neutral,low,high
-Kindly review this problem with priority,complaint,neutral,urgent,low
-We will have to pursue legal action if this continues,threat,neutral,low,high
-Please share more details?,inquiry,neutral,low,low
-Kindly fix this issue immediately,complaint,neutral,urgent,low
-This situation is unacceptable and requires action,complaint,negative,low,medium
-Please provide guidance with my account,request,neutral,low,low
-I am very not satisfied with your service,complaint,negative,low,low
-I am dissatisfied with the level of service,complaint,negative,low,low
-Could you offer guidance for my account issue,request,neutral,low,low
-Could you offer support for my account issue,request,neutral,low,low
-The process is taking too long to resolve,complaint,neutral,normal,low
-I require assistance with my account,request,neutral,low,low
-We will have to pursue legal steps if the issue persists,threat,neutral,low,high
-I'm looking for guidance with my user account,request,neutral,low,low
-I need assistance regarding my account,request,neutral,low,low
-Please give further clarification?,inquiry,neutral,low,low
-Could you share further clarification?,inquiry,neutral,low,low
-I require support with my account,request,neutral,low,low
-I require help for my account issue,request,neutral,low,low
-Thank you for assistance,praise,positive,low,low
-I'm looking for guidance regarding my account,request,neutral,low,low
-This is taking too long to resolve,complaint,neutral,normal,low
-Kindly review this matter urgently,complaint,neutral,urgent,low
-Please review this concern immediately,complaint,neutral,urgent,low
-We will have to consider legal measures should this remain unresolved,threat,neutral,low,high
-The process is taking longer than expected,complaint,neutral,normal,low
-Please handle this issue as soon as possible,complaint,neutral,urgent,low
-I feel unhappy with your service,complaint,negative,low,low
-Could you offer help for my account issue,request,neutral,low,low
-Could you offer help with my user account,request,neutral,low,low
-Please provide assistance regarding my account,request,neutral,low,low
-I feel not satisfied with your service,complaint,negative,low,low
-Can you share additional information?,inquiry,neutral,low,low
-I request you to fix this problem right away,complaint,neutral,urgent,low
-I need guidance with my user account,request,neutral,low,low
-Please review this matter urgently,complaint,neutral,urgent,low
-Please provide guidance with my user account,request,neutral,low,low
-Kindly handle this concern immediately,complaint,neutral,urgent,low
-Please look into this concern immediately,complaint,neutral,urgent,low
-Please provide support for my account issue,request,neutral,low,low
-I need guidance with my account,request,neutral,low,low
-I need support with my account,request,neutral,low,low
-The process is taking excessive time to complete,complaint,neutral,normal,low
-Kindly look into this issue as soon as possible,complaint,neutral,urgent,low
-Please provide assistance related to my account,request,neutral,low,low
-We might pursue legal measures should this remain unresolved,threat,neutral,low,high
-I require guidance for my account issue,request,neutral,low,low
-I need guidance regarding my account,request,neutral,low,low
-Please provide further clarification?,inquiry,neutral,low,low
-Kindly address this issue immediately,complaint,neutral,urgent,low
-I am unhappy with the service provided,complaint,negative,low,low
-Please provide assistance for my account issue,request,neutral,low,low
-We will have to consider legal action if this continues,threat,neutral,low,high
-Please provide assistance with my user account,request,neutral,low,low
-I require support regarding my account,request,neutral,low,low
-Please give more details?,inquiry,neutral,low,low
-Many thanks for your assistance,praise,positive,low,low
-We might take legal action if this continues,threat,neutral,low,high
-Please address this concern without delay,complaint,neutral,urgent,low
-I need guidance related to my account,request,neutral,low,low
-Please share additional information?,inquiry,neutral,low,low
-Could you offer guidance regarding my account,request,neutral,low,low
-Please resolve this issue immediately,complaint,neutral,urgent,low
-Many thanks for assistance,praise,positive,low,low
-Could you offer assistance regarding my account,request,neutral,low,low
-This issue seems unacceptable and requires action,complaint,negative,low,medium
-This issue is unacceptable and requires action,complaint,negative,low,medium
-Please look into this matter urgently,complaint,neutral,urgent,low
-Kindly fix this concern without delay,complaint,neutral,urgent,low
-I am very unhappy with the service provided,complaint,negative,low,low
-The process has been taking excessive time to complete,complaint,neutral,normal,low
-I appreciate your fast response,praise,positive,low,low
-I'm looking for guidance with my account,request,neutral,low,low
-Could you share additional information?,inquiry,neutral,low,low
-Please give additional information?,inquiry,neutral,low,low
-Can you give further clarification?,inquiry,neutral,low,low
-Please address this problem right away,complaint,neutral,urgent,low
-The current situation seems not acceptable and must be addressed,complaint,negative,low,medium
-I require guidance related to my account,request,neutral,low,low
-Please review this issue as soon as possible,complaint,neutral,urgent,low
-The process has been taking too long to resolve,complaint,neutral,normal,low
-I feel unhappy with the service provided,complaint,negative,low,low
-Please fix this concern without delay,complaint,neutral,urgent,low
-Kindly handle this matter urgently,complaint,neutral,urgent,low
-Could you provide more details?,inquiry,neutral,low,low
-Please look into this issue as soon as possible,complaint,neutral,urgent,low
-I am dissatisfied with the service provided,complaint,negative,low,low
-I appreciate you for your assistance,praise,positive,low,low
-I request you to fix this concern without delay,complaint,neutral,urgent,low
-Could you give further clarification?,inquiry,neutral,low,low
-Please provide additional information?,inquiry,neutral,low,low
-I need help for my account issue,request,neutral,low,low
-Kindly handle this problem with priority,complaint,neutral,urgent,low
-Kindly resolve this concern without delay,complaint,neutral,urgent,low
-Please provide more details?,inquiry,neutral,low,low
-Please address this matter urgently,complaint,neutral,urgent,low
-We may consider legal action if this continues,threat,neutral,low,high
-Thank you for your help,praise,positive,low,low
-Please review this problem with priority,complaint,neutral,urgent,low
-Please provide support with my user account,request,neutral,low,low
-I require assistance with my user account,request,neutral,low,low
-Could you offer help related to my account,request,neutral,low,low
-I appreciate you for help,praise,positive,low,low
-Kindly address this problem with priority,complaint,neutral,urgent,low
-We might pursue legal steps if the issue persists,threat,neutral,low,high
-I request you to address this concern without delay,complaint,neutral,urgent,low
-I am not satisfied with the service provided,complaint,negative,low,low
-This issue seems unacceptable and needs fixing,complaint,negative,low,medium
-We might pursue legal action if this continues,threat,neutral,low,high
-Please provide assistance with my account,request,neutral,low,low
-Thank you for your quick response,praise,positive,low,low
-Could you offer assistance with my account,request,neutral,low,low
-We may pursue legal action if this continues,threat,neutral,low,high
-Can you provide more details?,inquiry,neutral,low,low
-I need support for my account issue,request,neutral,low,low
-I require guidance with my account,request,neutral,low,low
-I require assistance related to my account,request,neutral,low,low
-Kindly resolve this problem right away,complaint,neutral,urgent,low
-I feel unhappy with the level of service,complaint,negative,low,low
-The current situation seems unacceptable and requires action,complaint,negative,low,medium
-Could you provide further clarification?,inquiry,neutral,low,low
-I'm looking for support regarding my account,request,neutral,low,low
-Could you offer guidance with my account,request,neutral,low,low
-I appreciate the prompt reply,praise,positive,low,low
-This issue seems not acceptable and must be addressed,complaint,negative,low,medium
-I'm looking for help regarding my account,request,neutral,low,low
-Could you offer assistance with my user account,request,neutral,low,low
-This issue is not acceptable and must be addressed,complaint,negative,low,medium
-Please fix this problem right away,complaint,neutral,urgent,low
-I require assistance regarding my account,request,neutral,low,low
-I am very unhappy with the level of service,complaint,negative,low,low
-Kindly resolve this issue immediately,complaint,neutral,urgent,low
-Thank you for your fast response,praise,positive,low,low
-I need help with my account,request,neutral,low,low
-I appreciate you for assistance,praise,positive,low,low
-I appreciate you for your help,praise,positive,low,low
-Kindly look into this matter urgently,complaint,neutral,urgent,low
-Thank you for your assistance,praise,positive,low,low
-Thank you for support,praise,positive,low,low
-Could you share more details?,inquiry,neutral,low,low
-Could you offer guidance related to my account,request,neutral,low,low
-I require guidance regarding my account,request,neutral,low,low
-Please provide help regarding my account,request,neutral,low,low
-I request you to resolve this issue immediately,complaint,neutral,urgent,low
-We will have to take legal measures should this remain unresolved,threat,neutral,low,high
-Thank you for the prompt reply,praise,positive,low,low
-This situation seems unacceptable and requires action,complaint,negative,low,medium
-I need support regarding my account,request,neutral,low,low
-I am very dissatisfied with the level of service,complaint,negative,low,low
-I appreciate you for support,praise,positive,low,low
-I require assistance for my account issue,request,neutral,low,low
-We might consider legal action if this continues,threat,neutral,low,high
-I need help with my user account,request,neutral,low,low
-Please address this concern immediately,complaint,neutral,urgent,low
-I require support for my account issue,request,neutral,low,low
-I appreciate your quick response,praise,positive,low,low
-Can you share more details?,inquiry,neutral,low,low
-I appreciate the fast response,praise,positive,low,low
-I feel dissatisfied with your service,complaint,negative,low,low
-Please address this issue immediately,complaint,neutral,urgent,low
-Please provide help for my account issue,request,neutral,low,low
-Please fix this issue immediately,complaint,neutral,urgent,low
-Please handle this matter urgently,complaint,neutral,urgent,low
-I feel not satisfied with the level of service,complaint,negative,low,low
-I need assistance related to my account,request,neutral,low,low
-Please provide support with my account,request,neutral,low,low
-Many thanks for your support,praise,positive,low,low
-Please provide help with my user account,request,neutral,low,low
-I'm looking for help with my user account,request,neutral,low,low
-I am not satisfied with your service,complaint,negative,low,low
-I request you to address this issue immediately,complaint,neutral,urgent,low
-I'm looking for help with my account,request,neutral,low,low
-Please address this problem with priority,complaint,neutral,urgent,low
-I am unhappy with the level of service,complaint,negative,low,low
-We may take legal action if this continues,threat,neutral,low,high
-I request you to fix this issue immediately,complaint,neutral,urgent,low
-I require help related to my account,request,neutral,low,low
-Many thanks for support,praise,positive,low,low
-Kindly review this concern immediately,complaint,neutral,urgent,low
-Could you offer help regarding my account,request,neutral,low,low
-I appreciate the quick response,praise,positive,low,low
-We may consider legal measures should this remain unresolved,threat,neutral,low,high
-I require guidance with my user account,request,neutral,low,low
-This situation seems unacceptable and needs fixing,complaint,negative,low,medium
-I am very unhappy with your service,complaint,negative,low,low
-Thank you for your support,praise,positive,low,low
-Thank you for your prompt reply,praise,positive,low,low
-I need support with my user account,request,neutral,low,low
-I'm looking for assistance for my account issue,request,neutral,low,low
-Could you offer support with my user account,request,neutral,low,low
-Many thanks for help,praise,positive,low,low
-We might take legal measures should this remain unresolved,threat,neutral,low,high
-I am unhappy with your service,complaint,negative,low,low
-Thank you for the quick response,praise,positive,low,low
-Can you provide further clarification?,inquiry,neutral,low,low
-I'm looking for help related to my account,request,neutral,low,low
-We may take legal steps if the issue persists,threat,neutral,low,high
-Kindly fix this problem right away,complaint,neutral,urgent,low
-This has been taking longer than expected,complaint,neutral,normal,low
-We might consider legal steps if the issue persists,threat,neutral,low,high
-The current situation is unacceptable and requires action,complaint,negative,low,medium
-I need help related to my account,request,neutral,low,low
-Kindly address this issue as soon as possible,complaint,neutral,urgent,low
-I'm looking for support related to my account,request,neutral,low,low
-Please resolve this problem right away,complaint,neutral,urgent,low
-I need help regarding my account,request,neutral,low,low
-Please handle this problem with priority,complaint,neutral,urgent,low
-Kindly look into this problem with priority,complaint,neutral,urgent,low
-I'm looking for assistance with my user account,request,neutral,low,low
-Could you offer help with my account,request,neutral,low,low
-I appreciate your prompt reply,praise,positive,low,low
-I require support with my user account,request,neutral,low,low
-Could you offer support regarding my account,request,neutral,low,low
-I'm looking for support for my account issue,request,neutral,low,low
-This situation seems not acceptable and must be addressed,complaint,negative,low,medium
-I need support related to my account,request,neutral,low,low
-Could you offer assistance related to my account,request,neutral,low,low
-Can you give additional information?,inquiry,neutral,low,low
-I am very dissatisfied with your service,complaint,negative,low,low
-Please resolve this concern without delay,complaint,neutral,urgent,low
-I feel dissatisfied with the level of service,complaint,negative,low,low
-This issue is unacceptable and needs fixing,complaint,negative,low,medium
-I'm looking for support with my user account,request,neutral,low,low
-I'm looking for support with my account,request,neutral,low,low
-Could you give more details?,inquiry,neutral,low,low
-This has been taking too long to resolve,complaint,neutral,normal,low
-I am very not satisfied with the service provided,complaint,negative,low,low
-This is taking longer than expected,complaint,neutral,normal,low
-Could you provide additional information?,inquiry,neutral,low,low
-I'm looking for guidance related to my account,request,neutral,low,low
-I'm looking for assistance related to my account,request,neutral,low,low
-We will have to take legal steps if the issue persists,threat,neutral,low,high
-The current situation seems unacceptable and needs fixing,complaint,negative,low,medium
-I require help regarding my account,request,neutral,low,low
-Can you provide additional information?,inquiry,neutral,low,low
-I am dissatisfied with your service,complaint,negative,low,low
-This has been taking excessive time to complete,complaint,neutral,normal,low
-Thank you for help,praise,positive,low,low
-Kindly address this concern without delay,complaint,neutral,urgent,low
-Please handle this concern immediately,complaint,neutral,urgent,low
-I request you to resolve this problem right away,complaint,neutral,urgent,low
-Could you offer guidance with my user account,request,neutral,low,low
-Could you offer assistance for my account issue,request,neutral,low,low
-We may pursue legal steps if the issue persists,threat,neutral,low,high
-Please address this issue as soon as possible,complaint,neutral,urgent,low
-I am very not satisfied with the level of service,complaint,negative,low,low
-I require help with my account,request,neutral,low,low
-This is taking excessive time to complete,complaint,neutral,normal,low
-Please provide support regarding my account,request,neutral,low,low
-Kindly address this concern immediately,complaint,neutral,urgent,low
-I appreciate you for your support,praise,positive,low,low
-Kindly look into this concern immediately,complaint,neutral,urgent,low
+text,intent,sentiment,urgency,risk,department
+The firewall update deployed last night has blocked access to our third-party payroll software. Payroll processing is scheduled for tomorrow morning.,Complaint,Negative,High,High,IT
+What's the company's stance on using AI-based writing tools for internal documents? I want to make sure I'm within policy before using one.,Inquiry,Neutral,Low,Medium,IT
+"I'm not sure if this falls under IT or Facilities, but the smart TV in Conference Room B hasn't worked in over a month. It's being used frequently for client presentations.",Complaint,Negative,Medium,Low,General
+"The cost savings from the process change are materializing, albeit more slowly than projected. We're still on track for the annual target if Q3 holds.",Information,Neutral,Medium,Low,Finance
+Our subsidiary's accounts haven't been reconciled since December and the parent company consolidation is next week. This is a serious gap.,Escalation,Negative,High,High,Finance
+The quarterly all-hands session was much more engaging this time around. The format change really worked — people were asking genuine questions.,Appreciation,Positive,Low,Low,Management
+I'd like to request approval to attend an external industry conference next month. The estimated cost including travel is within my approved training budget.,Request,Positive,Low,Low,HR
+I'd like to understand the process for submitting a suggestion for improvement through formal channels. Is there a form or a specific point of contact?,Inquiry,Neutral,Low,Low,General
+This is to inform all employees that the office will remain closed on 14th April on account of a public holiday. The revised project timelines have been shared with managers.,Information,Neutral,Low,Low,HR
+Just a quick note to say the remote working setup provided to the team has been excellent. The equipment and connectivity are far better than expected.,Appreciation,Positive,Low,Low,IT
+The diversity and inclusion training conducted last week was one of the most impactful sessions I've attended here. I hope it becomes a regular program.,Appreciation,Positive,Low,Low,HR
+The internet speed in the client meeting rooms has become unreliable. Two video calls this week dropped mid-conversation in front of clients.,Complaint,Negative,Medium,Medium,IT
+This is to confirm that the two new VP appointments have been finalized. Formal announcements will be made at Monday's all-hands meeting.,Information,Neutral,Low,Low,Management
+"I'd like to formally raise the matter of noise levels in the open-plan section. Some teams are having loud calls without using meeting rooms, making it difficult to concentrate.",Complaint,Negative,Low,Low,General
+Just a heads-up that the SSL certificate for our customer portal expires in 14 days. Please coordinate a renewal before it lapses.,Information,Neutral,Medium,High,IT
+I'm flagging this more for visibility than action. A minor process was skipped during last week's release — it didn't cause issues but should be noted for future audits.,Information,Neutral,Low,Medium,IT
+The new gym subsidy benefit has been incredibly well received across the office. Several people mentioned it as a major positive in the pulse survey.,Appreciation,Positive,Low,Low,HR
+Could we set up a working session to revisit the go-to-market strategy for our new product? The initial traction metrics suggest we may need to reposition the offer.,Request,Neutral,Medium,Medium,Management
+Could someone confirm the process for booking the large boardroom for a full-day strategy session? I've been told there are new booking rules I may not be aware of.,Inquiry,Neutral,Low,Low,General
+I am writing to formally report an incident that occurred on 8th March involving a colleague whose behavior I found inappropriate and professionally unacceptable.,Escalation,Negative,High,High,HR
+"We are running dangerously low on raw material stock for Product Line C. At current consumption rates, we have less than four days of supply remaining.",Escalation,Negative,High,High,Operations
+The invoice from vendor GlobalTech Solutions (INV-2024-0871) was paid twice last month. The duplicate payment totals Rs. 4.8 lakhs and needs to be recovered immediately.,Complaint,Negative,High,High,Finance
+Can Finance confirm whether the CAPEX budget for the new office fit-out has been formally sanctioned? The vendor is waiting to start and we need a purchase order raised.,Inquiry,Neutral,Medium,Medium,Finance
+A few members of the team have separately mentioned feeling unclear about the new reporting structure. They're not sure who makes the final call on certain decisions.,Information,Neutral,Medium,Medium,Management
+The appraisal cycle was supposed to conclude by end of February but our team has not received any feedback or rating. It's now mid-March.,Complaint,Negative,Medium,Medium,HR
+Our main production line has been operating at 60% capacity since Monday due to a conveyor belt malfunction. The maintenance team is working on it but needs spare parts.,Complaint,Negative,High,High,Operations
+Please approve the revised vendor contract for our cloud storage provider. The new terms include a 10% price increase but extend the SLA guarantee to 99.95%.,Request,Neutral,Medium,Low,Finance
+The engineering team has completed the migration of the legacy authentication system. All users should now be logging in via the new SSO portal.,Information,Neutral,Low,Low,IT
+The monthly department newsletter has contained factual errors in the last two editions. It's creating confusion and undermining trust in internal communications.,Complaint,Negative,Low,Low,General
+The canteen vendor has been serving food past the agreed quality standards for two weeks now. Several employees have raised informal complaints.,Complaint,Negative,Medium,Medium,Operations
+Who owns the vendor relationship for our office equipment maintenance contracts? I want to log a service request but don't know the right channel.,Inquiry,Neutral,Low,Low,Operations
+Is there a general directory or org chart available somewhere? I've joined recently and finding it difficult to know who to reach out to for different topics.,Inquiry,Neutral,Low,Low,General
+This is a reminder that the annual health check-up camp is being organized on 5th and 6th May. Please register on the HR portal to secure your slot.,Information,Neutral,Low,Low,General
+Is there a process to nominate a colleague for the quarterly recognition award? My teammate Deepa has gone above and beyond on two critical projects this quarter.,Inquiry,Positive,Low,Low,HR
+I'd like to flag that the bonus calculations for the sales team appear to use a different formula than what was agreed in January. The discrepancy affects 8 people.,Escalation,Negative,High,High,Finance
+Priya mentioned she may need to take some time off soon for personal reasons. I just want to make sure we handle her workload sensitively during that period.,Inquiry,Neutral,Medium,Low,HR
+Please be advised that the revised GST filing deadline has been extended to 20th April. All departments should ensure invoices are submitted to Finance by 15th.,Information,Neutral,Medium,Low,Finance
+A client has disputed an invoice saying the amounts don't match their purchase order. The difference is Rs. 1.1 lakh. Can Finance review and issue a credit note if needed?,Request,Neutral,Medium,Medium,Finance
+Just wanted to note that the recent company-wide townhall was the most transparent and engaging one I've attended in several years here. It set a new standard.,Appreciation,Positive,Low,Low,General
+The meeting yesterday covered a lot of ground. I'm not sure we landed on concrete next steps for the compliance item — can we align before end of day?,Inquiry,Neutral,Medium,Medium,Management
+I'd like to apply for two weeks of annual leave from 15th to 29th March. My manager has given verbal approval and I wanted to formally submit the request.,Request,Neutral,Low,Low,HR
+"We're onboarding three contractors next Monday and need their system access provisioned before they start. Accounts for Raj Mehta, Priya Sinha, and Tom Walsh.",Request,Neutral,Medium,Low,IT
+Would it be possible to get a standing desk and a second monitor provisioned for my workstation? My physiotherapist has recommended it.,Request,Neutral,Low,Low,IT
+The culture survey results are in and overall engagement scores have risen by 8 points compared to last year. The leadership team's visibility scores improved the most.,Information,Positive,Low,Low,Management
+"I've noticed that three project codes in the last quarter's P&L don't match any active projects in our system. Before I raise this formally, wanted to check if there's an explanation.",Inquiry,Neutral,Medium,High,Finance
+The sprint velocity has dropped slightly over the past two cycles. There are some plausible explanations but I want to make sure it's not something systemic.,Inquiry,Neutral,Medium,Medium,IT
+The facilities team deserves a mention for the way they managed the office move over the weekend. No disruption Monday morning — that takes real coordination.,Appreciation,Positive,Low,Low,Operations
+What is the standard notice period for contractor relationships? We're looking to end an engagement and want to follow the right process.,Inquiry,Neutral,Medium,Low,HR
+The shipment from our Pune warehouse was dispatched three days late without any communication to the client. This is the second time this quarter.,Complaint,Negative,High,High,Operations
+I've seen the draft contract and I'm broadly comfortable with the terms. There's one clause I'd like legal to confirm before we proceed.,Request,Neutral,Medium,Medium,Management
+Please share access to the shared budget tracker for our department. I've been working off a local copy and need to consolidate by Friday.,Request,Neutral,Medium,Low,Finance
+"I wanted to raise the issue of parking allocation — the visitor spots are frequently being used by employees, which causes problems when actual guests arrive.",Complaint,Negative,Low,Low,General
+This is the weekly operations update. Dispatch targets were met at 94% this week. The shortfall is attributed to the public holiday on Wednesday.,Information,Neutral,Low,Low,Operations
+Someone sent me a suspicious email asking for my login credentials. I didn't click anything but wanted IT to know in case it's a phishing campaign.,Information,Neutral,Medium,High,IT
+I'm concerned that the regional expansion project is being driven without adequate risk assessment. The entry costs in the new market appear to have been underestimated.,Escalation,Negative,Medium,High,Management
+Please arrange for the legal team to review the NDA before our partner meeting next week. The timeline is tight but manageable.,Request,Neutral,Medium,Medium,Management
+Our team has been given a project scope and deadline without any input from us on feasibility. The timelines are not realistic given current workload.,Complaint,Negative,High,Medium,Management
+"My business cards have had a typo in the job title for three print runs now. Despite raising it each time, the error keeps reappearing.",Complaint,Negative,Low,Low,General
+The API gateway has been intermittently dropping requests since Tuesday. About 3% of transactions are failing silently with no error logged on the client side.,Complaint,Negative,High,High,IT
+"The project contingency fund was used without the required two-level approval. While the expense itself is valid, the process breach needs to be documented.",Information,Neutral,Medium,Medium,Finance
+I'd appreciate your perspective on whether we should accelerate the digital transformation program given the competitive moves we've observed in the market this week.,Inquiry,Neutral,Medium,Medium,Management
+"Please note that all travel above Rs. 50,000 now requires VP-level approval as part of the cost rationalization measures in effect until end of financial year.",Information,Neutral,Low,Low,Management
+I'd like to request a project extension of two weeks due to unforeseen dependencies that emerged during implementation. I have a revised plan ready to share.,Request,Neutral,Medium,Medium,Management
+All printers on the third floor stopped responding after this morning's Windows update. We have a physical contract to print by EOD.,Complaint,Negative,High,Medium,IT
+"Could building management look into the broken elevator button on Floor 4? It's been stuck in the pressed position for days, which causes the lift to stop unnecessarily.",Request,Neutral,Low,Low,General
+We're approaching the end of the financial year and three of our five strategic goals remain below target. A course correction plan needs to be submitted to the board.,Escalation,Negative,High,High,Management
+My laptop battery drains in under two hours even when not doing anything intensive. I've submitted a ticket before but it got closed without resolution.,Complaint,Negative,Low,Low,IT
+Just a reminder that the planned server maintenance window is this Sunday from 2 AM to 5 AM IST. All services will be briefly unavailable.,Information,Neutral,Low,Low,IT
+The fire safety inspection is scheduled for 22nd April. All departments need to ensure emergency exit routes are clear and extinguishers are accessible.,Information,Neutral,Medium,Medium,Operations
+Please be informed that Ankit Sharma will be transitioning to the senior analyst role effective 1st April. His revised compensation details have been finalized.,Information,Neutral,Low,Low,HR
+Is there a way to access my work email from my personal phone without installing the full MDM profile? I'd prefer to keep the devices separate.,Inquiry,Neutral,Low,Medium,IT
+The packaging material from our new supplier is substandard. Products are arriving at client locations with visible damage. We need to either renegotiate or switch suppliers.,Escalation,Negative,High,High,Operations
+Our legal counsel has advised that the new data localisation regulations will apply to us from Q3. Relevant teams have been briefed and impact assessments are underway.,Information,Neutral,Medium,High,Management
+We've identified a potential mismatch between our internal revenue recognition schedule and what's been recorded in the ERP for Q1. An audit may be needed.,Escalation,Negative,High,High,Finance
+Could someone verify whether the forklift certifications for three of our warehouse staff are still valid? I believe they may have expired last quarter.,Inquiry,Neutral,Medium,High,Operations
+"We hit the milestone, though some of it was made possible by weekend work from two team members who haven't been acknowledged formally.",Information,Neutral,Low,Medium,Management
+I wanted to flag that the building's main entrance has a broken door mechanism. It's been like this for three days and could be a safety issue.,Information,Neutral,Medium,Medium,General
+The new vendor onboarding checklist has made a real difference. The quality of documentation from suppliers has improved and approval times are down by 40%.,Appreciation,Positive,Low,Low,Operations
+"Our team has been very busy this quarter and morale seems a bit stretched. Nothing alarming, but I want to make sure we're supporting people appropriately.",Inquiry,Neutral,Medium,Medium,HR
+A serious safety incident occurred in the warehouse this morning. One employee has been taken to the hospital. The area has been cordoned off pending investigation.,Escalation,Negative,High,High,Operations
+Can we upgrade the conference room projector in Block C? It has a noticeable lag and the resolution makes it hard to read presentations during client meetings.,Request,Neutral,Low,Low,IT
+The strategic planning offsite last week was extremely productive. The alignment we achieved in two days would have taken months through normal channels.,Appreciation,Positive,Low,Low,Management
+"I don't want to overreact to one data point, but the customer satisfaction score for our channel dropped four points this month. Could be noise or could be a signal.",Inquiry,Neutral,Medium,Medium,Management
+Our external auditors have flagged a related-party transaction that wasn't disclosed in the annual filing notes. We need legal and finance to address this jointly.,Escalation,Negative,High,High,Finance
+Just wanted to say that the office renovation turned out really well. The new breakout spaces and the improved lighting have made a big difference to the daily environment.,Appreciation,Positive,Low,Low,General
+I wasn't notified when my meeting room booking was cancelled. I showed up with three external clients and had to improvise.,Complaint,Negative,Medium,Medium,General
+"I've reviewed the proposal and there are a few sections I'd like to revisit with you. Nothing major, but worth a conversation before it goes externally.",Request,Neutral,Medium,Medium,Management
+I am applying for unpaid sabbatical leave for a period of three months to pursue a personal research project. I would like to discuss the feasibility.,Request,Neutral,Low,Low,HR
+I've been tracking our SLA adherence this quarter and we're at 87% against a target of 95%. I'd like to discuss the root causes in the next ops review.,Information,Neutral,Medium,Medium,Operations
+I wanted to take a moment to appreciate the Finance team for closing the books on time despite the compressed timeline this quarter.,Appreciation,Positive,Low,Low,Finance
+I'm having trouble accessing the self-service portal to update my bank details for salary disbursement. Could someone help or update it on my behalf?,Request,Neutral,Medium,Medium,HR
+Our IT team resolved a critical deployment blocker at 10 PM on a Friday without any complaints. That kind of commitment doesn't go unnoticed.,Appreciation,Positive,Low,Low,IT
+"Our cold storage unit B has been flagging a temperature variance since last night. If it isn't addressed soon, we risk spoilage of the pharmaceutical stock currently stored there.",Escalation,Negative,High,High,Operations
+Could you clarify the notice period waiver policy? A team member has received an offer requiring them to join in two weeks rather than the standard one month.,Inquiry,Neutral,Medium,Low,HR
+"As a reminder, all expense claims for the previous month must be submitted by the 5th of each month. Claims submitted after this date will be processed in the following cycle.",Information,Neutral,Low,Low,Finance
+The quarterly business review went very well. The team presented a clear picture of performance and the discussion on growth levers was substantive.,Appreciation,Positive,Low,Low,Management
+"I know this is a sensitive topic and I don't want to overstep, but I've observed something in the team dynamic that I think warrants a quiet conversation.",Escalation,Neutral,Medium,High,HR
+Could you review the draft terms for the new strategic partnership before it goes to the board? There are two clauses I'm uncertain about.,Request,Neutral,Medium,Medium,Management
+I wanted to bring to your attention some concerns about how the recent performance review process was conducted in our department. Several criteria felt subjective and the feedback sessions were very rushed.,Complaint,Negative,Medium,Medium,HR
+Could someone update the org chart to reflect the recent promotions? The current version on the intranet is over four months out of date.,Request,Neutral,Low,Low,HR
+Finance has not yet released the departmental budgets for Q2 even though we're already two weeks into the quarter. Planning is on hold for several teams.,Complaint,Negative,Medium,Medium,Finance
+The way the operations team handled the supply disruption last month without a single client-facing impact was genuinely impressive.,Appreciation,Positive,Low,Low,Operations
+The catering order for today's board lunch was incorrect and arrived 40 minutes late. This was an important external engagement.,Complaint,Negative,High,Medium,Operations
+What are the criteria for being considered for an internal transfer to another department? I've been in my current role for three years and am looking for new challenges.,Inquiry,Neutral,Low,Low,HR
+The new inventory management software has reduced stock discrepancies by over 30% in the first month. The operations team adapted quickly and the training was well done.,Appreciation,Positive,Low,Low,Operations
+Does anyone know if the company library still operates or if it was discontinued? I'd like to borrow some reference books for a certification I'm preparing for.,Inquiry,Neutral,Low,Low,General
+We'd like to request approval to pilot a paperless delivery confirmation system across two routes next quarter. The projected saving is around Rs. 1.4 lakhs annually.,Request,Neutral,Low,Low,Operations
+"Our Q1 customer retention rate came in at 91%, up from 87% in Q4 last year. The improvement is largely attributed to the new account management model.",Information,Positive,Low,Low,Management
+This is to confirm that the safety drill conducted last Friday had 100% participation. No issues were identified and the evacuation time was within the target.,Information,Positive,Low,Low,Operations
+We need someone to take ownership of the onboarding buddy program — it's fallen into disarray and new joiners are not being matched with buddies consistently.,Request,Neutral,Medium,Low,General
+The automated salary disbursement ran with incorrect deduction codes for 14 employees this cycle. Corrected payslips and adjustments need to go out before month end.,Complaint,Negative,High,High,Finance
+We need to make a call on the vendor shortlist for the ERP replacement by end of week. The evaluation committee has been waiting on two approvals.,Request,Neutral,High,Medium,Management
+Could someone from IT look into why Outlook keeps freezing on my machine? It's been happening on and off for about a week now.,Request,Neutral,Medium,Low,IT
+The new automated sorting system in the dispatch hall is performing well above expectations. Throughput is up 22% and error rates have dropped significantly.,Appreciation,Positive,Low,Low,Operations
+"Is the petty cash policy still capped at Rs. 5,000 per transaction? Our team needs to make a purchase that's slightly above that and I want to follow the right process.",Inquiry,Neutral,Low,Low,Finance
+The branch office in Hyderabad has reported that their lease renewal was not processed in time and the landlord is asking them to vacate by end of month.,Escalation,Negative,High,High,Operations
+I wanted to personally thank the entire cross-functional team for the exceptional effort on the Q4 product launch. We delivered on time despite some late-breaking changes.,Appreciation,Positive,Low,Low,Management
+The wi-fi in the cafeteria area is barely usable during lunch hours. A lot of us use that time for calls or remote collaboration.,Complaint,Negative,Low,Low,General
+"The new cafeteria vendor has noticeably improved the quality and variety of the lunch menu. A small thing, but it genuinely improves the day.",Appreciation,Positive,Low,Low,General
+Please be informed that the new logistics partner will take over domestic deliveries from 1st May. A transition briefing will be held for all operations staff next Thursday.,Information,Neutral,Low,Low,Operations
+Please be informed that the CEO's quarterly town hall will be held on 25th April at 11 AM. All employees are encouraged to attend. A Q&A session will follow.,Information,Neutral,Low,Low,Management
+We delivered the project within budget and on time. The client acknowledged the milestone but hasn't confirmed the next phase yet.,Information,Neutral,Medium,Medium,Management
+"Our SLA performance looks acceptable on paper, but if you drill into the data by segment, there's a specific client category that's consistently below threshold.",Information,Neutral,Medium,High,Operations
+The response to my HR query last month was a copy-paste of the policy document I had already read. I'm looking for an actual answer to my specific situation.,Complaint,Negative,Low,Low,HR
+Our third-party QA firm has flagged non-compliance with ISO 9001 requirements in two process areas. A corrective action plan is needed within 30 days.,Escalation,Negative,High,High,Operations
+Please note that parking lot B will be closed for resurfacing from 8th to 10th May. Staff are advised to use lot C or the street parking on the east side.,Information,Neutral,Low,Low,General
+The year-end audit went very smoothly this time. The finance team's preparation was thorough and the auditors commented on the quality of documentation. Well done.,Appreciation,Positive,Low,Low,Finance
+"The client seems satisfied for now. They didn't raise any concerns during the call, though a few of their questions suggested they may be evaluating alternatives.",Information,Neutral,Medium,High,Management
+Just to confirm — the cloud migration for the HR module has been completed on schedule. All data integrity checks passed. Moving to phase 2 next week.,Information,Positive,Low,Low,IT
+"Our key client's contract expires at midnight tonight and the renewal paperwork has not been signed. If this lapses, we lose the account.",Escalation,Negative,High,High,Finance
+"The client visit went well overall. There was one moment of tension around the delivery timeline, but it was managed and the day ended positively.",Information,Neutral,Medium,Medium,Operations
+The inter-city freight costs have jumped 18% this quarter with our current carrier. I'd recommend we solicit fresh bids before the annual contract renewal.,Information,Neutral,Medium,Medium,Operations
+A few of us on the third floor have noticed a water leak near the stairwell. It's been there for about two days and the floor is getting slippery.,Information,Neutral,High,Medium,General
+Maria has been putting in long hours and the output reflects that. I just want to make sure we're setting sustainable expectations for the rest of the quarter.,Inquiry,Neutral,Medium,Medium,HR
+The turnaround on my support ticket yesterday was faster than I've seen in years. The engineer who handled it clearly knew what he was doing.,Appreciation,Positive,Low,Low,IT
+Is there a formal process for requesting a workspace ergonomic assessment? I've been experiencing back pain that I believe is related to my current setup.,Inquiry,Neutral,Low,Low,HR
+This is the third service interruption this month on the same system. I understand it's a known issue but the business impact is accumulating.,Complaint,Negative,High,High,IT
+"My reimbursement claim submitted six weeks ago still shows as pending. The total is Rs. 38,000 covering travel and accommodation for the client visit.",Complaint,Negative,Medium,Low,Finance
+The senior leadership's handling of the recent organizational change was thoughtful and transparent. Employees felt informed and respected throughout.,Appreciation,Positive,Low,Low,Management
+Could someone help me understand how foreign currency transactions are handled in the books? We've started billing a US client and need to know the conversion approach.,Inquiry,Neutral,Low,Low,Finance
+"The onboarding process for our new team member went reasonably well, though a couple of system access requests were still pending at the end of day one.",Information,Neutral,Low,Low,HR
+Could IT please whitelist the domain api.dataprovider.com? Our analytics team needs access to pull market data for the quarterly report.,Request,Neutral,Medium,Low,IT
+My offer letter still shows the incorrect designation. I've mentioned this twice before and it's been over a month. This is affecting my background verification process.,Complaint,Negative,Medium,Medium,HR
+My account password expired and now I can't log in at all. The self-service reset portal is also giving an error. I'm locked out of everything.,Complaint,Negative,High,Low,IT
+There appears to be a misalignment between what was communicated to the sales team about the product roadmap and what engineering actually plans to deliver in H2.,Escalation,Negative,Medium,High,Management
+"Lena's handling of the client complaint last week was exceptional — professional, calm, and resolved within the hour. She should be recognized for it.",Appreciation,Positive,Low,Low,Management
+We need to revisit our data privacy practices before the new regulations take effect in June. Legal has raised concerns that our current processes may not be compliant.,Escalation,Negative,High,High,Management
+Our new hire's background verification has stalled for 3 weeks. Her start date is approaching and we risk losing her if the process isn't expedited.,Escalation,Negative,High,High,HR
+The cleaning crew scheduled for the weekend did not show up and the office is in a poor state ahead of a client visit tomorrow morning.,Complaint,Negative,High,Medium,Operations
+The deployment went ahead as planned. We're monitoring for any issues over the next 24 hours.,Information,Neutral,Medium,Medium,IT
+I reached out to the supplier twice this week and haven't heard back. We're not at a critical point yet but this needs to be resolved within the next few days.,Request,Neutral,Medium,Medium,Operations
+Could HR confirm whether the company provides any support for professional certifications? I'm planning to pursue a PMP and would appreciate any reimbursement guidance.,Inquiry,Neutral,Low,Low,HR
+"The payroll file submitted to the bank has a processing error. If not corrected in the next two hours, employees will not receive their salaries on time.",Escalation,Negative,High,High,Finance
+I've flagged the discrepancy to the relevant team. Waiting to hear back. Will update once I have more information.,Information,Neutral,Medium,Medium,Operations
+Our largest client has escalated their concerns directly to the CEO. The account team has been aware of the service issues for two months but hadn't flagged it internally.,Escalation,Negative,High,High,Management
+What is the current policy on using personal cloud storage like Google Drive for work files? The handbook doesn't seem to address this clearly.,Inquiry,Neutral,Low,Medium,IT
+"As of this month, all project budgets exceeding Rs. 10 lakhs will require dual approval from both the departmental head and the CFO's office.",Information,Neutral,Medium,Medium,Finance
+The new leadership team has brought a real sense of direction to the organization. Employees are noticing the change and morale is visibly improving.,Appreciation,Positive,Low,Low,Management
+The team ran a blood donation drive entirely on a volunteer basis last week and collected 34 units. A quiet achievement worth recognizing.,Appreciation,Positive,Low,Low,General
+Our primary database server has been throwing timeout errors since 3 AM. Two client-facing applications are completely down and we are losing transactions every minute.,Complaint,Negative,High,High,IT
+"What is the approval process for publishing content externally on behalf of the company, such as an article or LinkedIn post?",Inquiry,Neutral,Low,Low,Management
+There's been a 15% increase in returned deliveries this month. Most returns cite incorrect labelling. We need to review the packaging process before this becomes a client issue.,Escalation,Negative,Medium,Medium,Operations
+I was not invited to the project kickoff meeting even though my team is one of the core contributors. This has happened before and it creates rework.,Complaint,Negative,Medium,Low,Management
+The revised onboarding checklist the HR team put together is genuinely useful. New joiners are getting up to speed much faster than before.,Appreciation,Positive,Low,Low,HR
+The operations team's response during last month's system migration was outstanding. Minimal disruption to delivery schedules despite a very tight window.,Appreciation,Positive,Low,Low,Operations
+I wanted to check if there is a policy for compassionate leave. A family member is seriously ill and I may need to travel at short notice.,Inquiry,Neutral,Medium,Low,HR
+Could someone in Finance review and approve the travel advance request I submitted on Monday? I'm traveling to the Singapore office on Friday.,Request,Neutral,Medium,Low,Finance
+Quick question — who do I contact to get a visitor access badge arranged for a guest arriving Thursday morning?,Inquiry,Neutral,Low,Low,General
+The presentation landed well with most of the audience. A few stakeholders raised concerns about implementation risk that we'll need to address in the next session.,Information,Neutral,Medium,Medium,Management
+"Not sure if this goes to IT or General, but the digital display boards in the lobby have been showing last month's announcements for three weeks.",Complaint,Negative,Low,Low,General
+The system behaved unexpectedly during testing but we couldn't reproduce it in a controlled environment. Marking it as watch and monitor for now.,Information,Neutral,Medium,High,IT
+Our CCTV monitoring system seems to have gone offline sometime yesterday. The security team has no visibility into the server room.,Escalation,Negative,High,High,IT
+The vendor audit conducted last week identified three suppliers who do not meet our updated sustainability criteria. A review process has been initiated.,Information,Neutral,Medium,Medium,Operations
+Is there a designated point of contact for sustainability or CSR initiatives? I'd like to propose a waste reduction initiative for our floor.,Inquiry,Positive,Low,Low,General
+The patch management dashboard shows 12 servers with critical vulnerabilities that haven't been patched in over 60 days. This needs immediate attention.,Escalation,Negative,High,High,IT
+The training was completed but some participants felt the content was too basic for their level. Worth reviewing the curriculum before the next cohort.,Information,Neutral,Low,Low,HR
+I'd like to request admin access to the staging environment so I can deploy the hotfix without waiting for approvals each time.,Request,Neutral,Medium,Medium,IT
+This is a reminder that all department heads are required to submit their annual budget proposals by 30th April. Templates have been shared by Finance.,Information,Neutral,Medium,Low,Management
+Could you send me a copy of the updated leave policy? I want to check my carryover entitlement before planning the year-end holidays.,Inquiry,Neutral,Low,Low,HR
+I notice the project timeline has shifted again — third time this month. Happy to adjust my team's deliverables accordingly if we can get updated specs before Friday.,Complaint,Neutral,Medium,Medium,Management
+I'd like to request a quiet working area or hot desk in a different zone for the next two weeks. My current seating is near a very noisy section.,Request,Neutral,Low,Low,General
+I'm writing this after sitting on it for a few days. The feedback I received in my last review didn't reflect what I was told informally throughout the year.,Complaint,Negative,Medium,Medium,HR
+The mentorship program this year has been transformative for several of the junior staff. A lot of credit goes to the HR team for matching people thoughtfully.,Appreciation,Positive,Low,Low,HR
+I'd like to recommend Sunita Verma for the leadership accelerator program this year. Her performance has been consistently outstanding and she is ready for the next level.,Request,Positive,Low,Low,Management
+"I'd like to understand the approval hierarchy for budget reallocations within a department. Specifically, can a team lead approve moves under 2 lakhs without management sign-off?",Inquiry,Neutral,Low,Low,Finance
+The project governance framework we introduced last quarter has significantly reduced scope creep and rework across teams. It's working exactly as intended.,Appreciation,Positive,Low,Low,Management
+The board has asked for a revised five-year financial model incorporating two new growth scenarios. The CFO needs inputs from each business unit by next Friday.,Request,Neutral,Medium,Low,Management
+This is to confirm that the annual compliance training has been updated and must be completed by all staff before 30th June. The module is now live on the portal.,Information,Neutral,Medium,Medium,HR
+Our DR site failover test has revealed that the backup environment won't support full load. Our business continuity plan as written is not viable.,Escalation,Negative,High,High,IT
+This is the monthly budget utilization summary for March. Overall spend is at 91% of plan with IT and Marketing slightly over. Full breakdown is attached.,Information,Neutral,Low,Low,Finance
+One of our contractor accounts appears to have accessed and downloaded a large volume of files from the HR drive at 2 AM. IT and HR need to act on this now.,Escalation,Negative,High,High,IT
+Just wanted to pass on that the finance team's turnaround on the investor reporting package this quarter was excellent. The format changes were exactly what the board requested.,Appreciation,Positive,Low,Low,Finance
+I want to formally flag that the new variable pay structure was communicated less than 72 hours before the salary revision cycle. This caused unnecessary confusion.,Complaint,Negative,Medium,Medium,HR
+I'm not raising a formal complaint — more of an observation. The meeting culture in our team tends toward long sessions with limited outcomes.,Inquiry,Neutral,Low,Low,Management
+Friendly reminder that the Diwali celebration lunch is this Friday at 1 PM in the main hall. All staff are welcome and dietary preferences have been accounted for.,Information,Positive,Low,Low,General
+"I'd like to escalate the matter of my promotion review, which was promised in Q3 last year. I've received no update despite multiple follow-ups with my manager.",Escalation,Negative,Medium,Medium,HR
+I'd like to discuss the restructuring proposal for the customer success division before it goes to the board. The current draft has implications that need broader input.,Request,Neutral,Medium,Medium,Management
+I want to acknowledge the effort the procurement team put into renegotiating our key vendor contracts. The savings will be felt across the year.,Appreciation,Positive,Low,Low,Finance
+"I'm not sure which team to contact about this, but my workstation has been moved twice in the last month without prior notice. It's been quite disruptive.",Complaint,Negative,Low,Low,General
+Our intrusion detection system flagged 47 failed login attempts on the CFO's account between midnight and 1 AM. The account has been locked but needs investigation.,Escalation,Negative,High,High,IT
+A journalist has reached out asking for comment on what they describe as a data breach affecting customer records. We have no information internally. This needs to go to senior management immediately.,Escalation,Negative,High,High,Management
+The new performance dashboard that IT rolled out gives us exactly the visibility we needed. It's already changed how we run our weekly reviews.,Appreciation,Positive,Low,Low,IT
+The new expense management app is a huge improvement over the old paper-based process. Claims are being processed much faster and the mobile interface is intuitive.,Appreciation,Positive,Low,Low,Finance
+The wellness initiative launched last month has already seen over 200 employee sign-ups. It's a great step forward and the team feels genuinely cared for.,Appreciation,Positive,Low,Low,HR
+I've been in this role for nine months now and haven't had a formal check-in with my manager since the first month. I'm not sure how to raise this without it feeling awkward.,Inquiry,Neutral,Low,Medium,HR
+"I appreciate the response, though I'm not sure the proposed solution fully addresses the underlying issue. Happy to discuss further if that would help.",Complaint,Neutral,Medium,Medium,General
+The new ticketing system is working great. Response times have improved and the interface is much cleaner than the old one. Good work to the IT team.,Appreciation,Positive,Low,Low,IT
+I haven't received my salary for this month yet. My colleagues have received theirs. Could you look into this as a matter of some priority?,Complaint,Negative,High,Medium,HR
+I'd like to propose a small change to the incoming goods inspection checklist. Adding two additional quality checkpoints could help reduce rejection rates downstream.,Request,Positive,Low,Low,Operations
+A team member has sent a client email with confidential pricing data for another client attached by mistake. The client has acknowledged receiving it.,Escalation,Negative,High,High,Management
+I'd like to request a formal letter confirming my employment and current designation. It's needed for a residential lease application.,Request,Neutral,Low,Low,HR
+The new policy was communicated clearly and seems fair. A few people have questions about edge cases — it might be worth publishing a brief FAQ.,Information,Positive,Low,Low,HR
+Can someone clarify the process for reimbursing personal purchases made when the company card wasn't available? I'm not sure which form to fill.,Inquiry,Neutral,Low,Low,General
+My maternity leave is ending next week and I'd like to explore the option of returning part-time for the first two months before resuming full-time.,Request,Neutral,Medium,Low,HR
+"The attrition rate in the tech division has reached 24% over the last 12 months. At this pace, we'll struggle to meet delivery commitments in H2.",Escalation,Negative,High,High,Management
+I wanted to check in on the status of the open risk items before the audit team arrives next week. Just want to make sure we're prepared.,Inquiry,Neutral,High,High,Finance
+"We processed the refund, though the customer wasn't fully satisfied with the timeline. They're still a client, but we should follow up to restore confidence.",Information,Neutral,Medium,Medium,Finance
+The shared network drive is inaccessible for the entire Mumbai office. We have a client deliverable due at noon and cannot retrieve the project files.,Escalation,Negative,High,High,IT
+I wanted to flag that the delivery vehicle assigned to Route 7 has not had its scheduled service. The driver has mentioned unusual noise from the engine.,Request,Neutral,Medium,Medium,Operations
+I'd like to flag that the exit interview for a recently departed team member was never conducted despite HR confirming it would be. This feedback would have been valuable.,Complaint,Negative,Low,Low,HR
+We've received some informal feedback suggesting that the new performance rating system is being perceived as unfair by middle management. We should address this proactively.,Information,Negative,Medium,Medium,Management
+"Hi team, just wanted to confirm that the VPN migration scheduled for Friday has been completed successfully. All users should now be on the new endpoint.",Information,Positive,Low,Low,IT
+Does the company have a policy on side projects or consulting work done in personal time? I want to make sure I'm not inadvertently in conflict with anything.,Inquiry,Neutral,Low,Low,HR
+Our main supplier has informed us of a 3-week delay due to port congestion. This will affect our ability to fulfil orders scheduled for the second half of next month.,Information,Negative,High,High,Operations
+Just following up on the open requisition for a senior data engineer on my team. The role has been vacant for over three months and the team is stretched.,Escalation,Negative,Medium,Medium,HR
+We've had inconsistent communication from different departments about the new hybrid work policy. Can a single clarifying note be sent company-wide?,Request,Neutral,Medium,Low,General
+Could we get an updated list of approved vendors? The procurement team keeps receiving requests for new additions and we'd like to have a single source of truth.,Request,Neutral,Low,Low,Finance
+The situation appears to be under control at the moment. I'll keep monitoring and escalate if anything changes in the next 48 hours.,Information,Neutral,Medium,Medium,Operations
+The induction program for our new joiners this quarter was really well organized. The sessions were informative and the welcome kit was a thoughtful touch.,Appreciation,Positive,Low,Low,HR
+Could Finance release the advance payment for the conference registration? The early-bird deadline is this Thursday and the saving is significant.,Request,Neutral,Medium,Low,Finance
+We've been waiting three weeks for the replacement laptop for our new analyst. She's currently sharing a machine with a colleague.,Complaint,Negative,Medium,Low,IT
+The internal communications newsletter has become much more engaging since the revamp. The articles are relevant and it feels less like a top-down broadcast.,Appreciation,Positive,Low,Low,General
+The numbers in last month's report were fine. This month there's a small deviation that may or may not indicate a trend. I've attached the comparison for your review.,Information,Neutral,Medium,Medium,Finance
+Can the ops team reschedule the maintenance window to avoid overlapping with our quarter-end processing period? The current timing is problematic.,Request,Neutral,Medium,Medium,Operations
+Could we revisit the shift rotation schedule for the night team? The current arrangement creates a 14-hour gap in coverage that we've had to patch with overtime.,Request,Neutral,Medium,Medium,Operations
+Can the facilities team look into the air conditioning in the second floor meeting rooms? The temperature has been inconsistent and it's affecting back-to-back client meetings.,Request,Neutral,Low,Low,Operations
+This is to confirm that all departmental heads have approved their Q1 variance reports. The consolidated version will be shared with the CFO by Thursday.,Information,Neutral,Low,Low,Finance
+One of our senior directors has submitted a resignation effective immediately. This will leave a critical gap in the enterprise accounts team during a peak period.,Escalation,Negative,High,High,Management
+Please share the revised travel and accommodation policy. Several team members are planning business trips next month and need clarity on reimbursement limits.,Request,Neutral,Medium,Low,HR
+Please initiate the wire transfer for the international vendor payment due today. The banking details and invoice are attached for your reference.,Request,Neutral,High,Medium,Finance
+Can you help me set up two-factor authentication on my work account? I tried following the guide but got stuck on the verification step.,Request,Neutral,Low,Low,IT
+A key regulatory submission deadline is in 48 hours and two required sign-offs have not been obtained. The implications of missing this deadline are significant.,Escalation,Negative,High,High,Management
+I've noticed that someone accessed the admin panel from an unrecognized IP address at 11:45 PM last night. I haven't been able to reach the account owner.,Escalation,Negative,High,High,IT
+This is to confirm that all mandatory compliance training has been completed by 100% of employees in the legal department before the deadline. Please update your records.,Information,Neutral,Low,Low,HR
+The finance portal has been showing incorrect tax deduction amounts in payslips for the last two months. Employees are concerned about their ITR filings.,Complaint,Negative,High,High,Finance
+I'd like to flag a potential conflict of interest with one of our shortlisted vendors. I'd prefer to discuss this privately before we proceed further in the selection process.,Escalation,Negative,Medium,High,Management
+The automated backup job has been failing silently for the past five days. I only noticed because I checked the logs manually. We may have a data gap.,Escalation,Negative,High,High,IT
+The office supply cabinet on the second floor has been empty for almost two weeks. Basic items like notepads and pens have run out.,Complaint,Negative,Low,Low,General
+Could the finance team share a template for preparing a business case for a new hire? We want to include cost modelling and ROI projections.,Request,Neutral,Low,Low,Finance
+"The new employee referral program is now active. Refer a candidate who gets hired and stays for six months to earn a bonus of Rs. 25,000.",Information,Positive,Low,Low,HR
+Can we schedule 30 minutes this week to align on the Q2 OKRs? A few of the key results need to be revised based on the market shift we discussed last week.,Request,Neutral,Medium,Low,Management
+Please initiate the background check process for three new hires starting next month. Their details are attached.,Request,Neutral,Medium,Medium,HR
+I'd like to formally recognize Arjun Kapoor for his contributions to the Q1 audit preparation. His attention to detail made a difficult process much smoother.,Appreciation,Positive,Low,Low,Finance
+"The new expense submission tool doesn't work on Safari. Since most of the field team uses MacBooks, this is blocking a large group from submitting claims.",Complaint,Negative,Medium,Medium,IT
+Can someone explain the difference between the standard and premium support tiers in our current vendor contract? I want to know what we're entitled to.,Inquiry,Neutral,Low,Low,Finance
+The Q4 financial statements show an unexplained variance of Rs. 12 lakhs in the operational expenses line. This needs to be investigated before the board presentation.,Escalation,Negative,High,High,Finance
+Our cold storage temperature dropped below the safety threshold overnight. We have a batch of perishable goods that needs to be inspected before distribution today.,Escalation,Negative,High,High,Operations
+Thank you for processing my relocation assistance so quickly. It made a stressful move much more manageable and I really appreciate the support from the HR team.,Appreciation,Positive,Low,Low,HR
+A member of my team has disclosed a personal mental health situation to me. I want to understand what support the company can offer and how to handle this sensitively.,Inquiry,Neutral,Medium,High,HR
+Is there a central calendar for company-wide events? I keep missing announcements that seem to go out on different channels with no consistent timing.,Inquiry,Neutral,Low,Low,General
+The vendor responded positively to our initial inquiry. They can meet our timeline but the pricing is at the higher end of our range.,Information,Neutral,Medium,Medium,Finance
+I received my revised payslip but the numbers still don't match what I calculated. I may be missing something — could someone walk me through the deductions?,Inquiry,Neutral,Medium,Medium,Finance
+Thank you to whoever left the lost umbrella at the reception desk — mine was returned intact and I genuinely didn't expect it. Small things like this matter.,Appreciation,Positive,Low,Low,General
+I'd like to report that I've observed a pattern of differential treatment within our team that may relate to gender. I'd prefer to discuss this confidentially first.,Escalation,Negative,High,High,HR
+I'd like to request a no-objection certificate for a visa application I'm submitting this week. It needs to be on company letterhead.,Request,Neutral,Medium,Low,HR
+The production environment has gone down. Revenue transactions are not going through and clients are calling. We need all hands immediately.,Escalation,Negative,High,High,IT
+Can I access the employee assistance program if the issue is work-related rather than personal? I'm unclear on what it covers.,Inquiry,Neutral,Low,Low,HR
+The dev environment was restored perfectly after last week's crash. The team can now continue sprint work without disruption. Really appreciate the quick turnaround.,Appreciation,Positive,Low,Low,IT
+I wanted to acknowledge Ramesh from the security team who went out of his way to help me retrieve a lost item. It's that kind of small gesture that reflects well on the company culture.,Appreciation,Positive,Low,Low,General
+"The board seemed engaged during the presentation, though the questions focused heavily on the assumptions behind the growth projections.",Information,Neutral,Medium,Medium,Management
+Could the IT team enable screen recording on my workstation? I need to create tutorial videos for the new internal training program.,Request,Neutral,Low,Low,IT
+Please share the final headcount plan for next year. Several departments have submitted conflicting numbers and we need a single approved version for the board pack.,Request,Neutral,Medium,Low,Management
+The mid-year performance calibration sessions are scheduled for the week of 20th May. All people managers should clear their calendars for at least two half-days.,Information,Neutral,Low,Low,Management
+I've been trying to coordinate a meeting between three departments for two weeks now. No one seems to own the agenda and the session keeps getting pushed.,Complaint,Negative,Medium,Low,General
+Could someone from procurement confirm when the new office stationery order will arrive? We've been out of printer paper for two days.,Inquiry,Neutral,Low,Low,Operations
+I'm trying to reconcile last month's credit card statement but four transactions don't have matching receipts. Can Finance advise on how to handle undocumented expenses?,Inquiry,Neutral,Medium,Medium,Finance
+"I have a few thoughts on the restructuring plan that I'd like to share before it's finalized. Not a formal objection, but perspective worth considering.",Request,Neutral,Medium,Medium,Management
+The merger integration timeline is slipping. We're now two weeks behind on three workstreams and the steering committee meeting is in 10 days.,Escalation,Negative,High,High,Management
+The internal audit for the IT department found no major findings this cycle. Minor observations have been shared with the IT head for action within 30 days.,Information,Positive,Low,Low,IT
+I'd like to understand what data is being collected by the endpoint monitoring tool installed last month. A policy document would be helpful.,Inquiry,Neutral,Low,Medium,IT
+Three of the action items from last quarter's review have been reassigned twice without being completed. I'm flagging this ahead of the next governance call.,Escalation,Negative,Medium,Medium,Operations
+A vendor has notified us that they'll apply a 2% late payment penalty if their outstanding invoice isn't cleared by Friday. The amount is Rs. 6.2 lakhs.,Escalation,Negative,High,Medium,Finance
+Can operations confirm whether the building's backup generator was tested last month? The maintenance log doesn't reflect a recent test.,Inquiry,Neutral,Low,Medium,Operations
+The parking gate barrier broke while I was driving out last evening and caused minor damage to my car. I'd like to know the process for reporting this.,Complaint,Negative,Medium,Medium,General
+I'd like to request an extension on the quarterly inventory audit deadline. Two of our key warehouse staff are on leave this week and next.,Request,Neutral,Medium,Low,Operations

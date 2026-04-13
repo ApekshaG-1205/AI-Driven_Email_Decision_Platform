@@ -13,8 +13,20 @@ class ModelBundle:
         self.name = name
 
     def predict(self, text: str) -> str:
+        """Predict on a single text string."""
         vec = self.vectorizer.transform([text])
         return str(self.model.predict(vec)[0])
+
+    def predict_chunks(self, chunks: list[str]) -> str:
+        """
+        Run prediction on each chunk and return the majority-vote label.
+        """
+        if not chunks:
+            raise ValueError("predict_chunks requires at least one chunk.")
+
+        predictions = [self.predict(chunk) for chunk in chunks]
+
+        return max(set(predictions), key=predictions.count)
 
 
 class ModelRegistry:
@@ -72,3 +84,4 @@ class ModelRegistry:
 
 
 model_registry = ModelRegistry()
+

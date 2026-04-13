@@ -1,4 +1,4 @@
-import { Brain, Shield, AlertTriangle, TrendingUp, Target } from "lucide-react";
+import { Brain, Shield, AlertTriangle, TrendingUp, Target, Building } from "lucide-react";
 import type { EmailAnalysis } from "@/types/email";
 import {
   StatusBadge,
@@ -16,6 +16,7 @@ const metrics = [
   { key: "sentiment" as const, label: "Sentiment", icon: TrendingUp, getVariant: getSentimentVariant },
   { key: "urgency" as const, label: "Urgency", icon: AlertTriangle, getVariant: getUrgencyVariant },
   { key: "risk" as const, label: "Risk", icon: Shield, getVariant: getRiskVariant },
+  { key: "department" as const, label: "Department", icon: Building, getVariant: () => "info" as const },
 ];
 
 export function AnalysisResult({ analysis }: AnalysisResultProps) {

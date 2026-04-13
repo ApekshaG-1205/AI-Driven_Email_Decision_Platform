@@ -1,8 +1,12 @@
+/* FIX: @import MUST be the very first statement in the file.
+   CSS spec mandates all @import rules precede any other rules.
+   @tailwind directives count as rules — placing @import after them
+   causes the "must precede all other statements" error. */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 @layer base {
   :root {
@@ -92,15 +96,15 @@
 
 @keyframes fadeIn {
   from { opacity: 0; }
-  to { opacity: 1; }
+  to   { opacity: 1; }
 }
 
 @keyframes slideUp {
   from { opacity: 0; transform: translateY(16px); }
-  to { opacity: 1; transform: translateY(0); }
+  to   { opacity: 1; transform: translateY(0); }
 }
 
 @keyframes pulse-glow {
   0%, 100% { box-shadow: 0 0 20px hsl(217 91% 60% / 0.2); }
-  50% { box-shadow: 0 0 30px hsl(217 91% 60% / 0.4); }
+  50%       { box-shadow: 0 0 30px hsl(217 91% 60% / 0.4); }
 }

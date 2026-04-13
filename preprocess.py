@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import numpy as np
 
-data = pd.read_csv("email_intelligence_dataset.csv")
+data = pd.read_csv("email_classification_dataset.csv")
 
 dup_counts = data.groupby("text").size().sort_values(ascending=False)
 print(dup_counts.head(10))
