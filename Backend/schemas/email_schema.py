@@ -20,6 +20,9 @@ class EmailAnalysisResult(BaseModel):
     risk: str
     department: str    
     final_decision: str
+    tone: str
+    recommendation: str
+    improved_text: str
 
 
 class EmailResponse(BaseModel):
